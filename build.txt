@@ -1,0 +1,3 @@
+displayName = Data File Mod
+author = WikiMax
+version = 0.1
